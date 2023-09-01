@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921912381858",
+    "project_id": "maisha-app-619da",
+    "storage_bucket": "maisha-app-619da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921912381858:android:977aeaa254c63487e162fb",
+        "android_client_info": {
+          "package_name": "com.app.test.testdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921912381858-trfsoevpv7m3seup9e1he5l36hk497b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7m-l-47Wy87ZOdyzW3dZjqNjigtEdHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921912381858-trfsoevpv7m3seup9e1he5l36hk497b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
